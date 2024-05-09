@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome] 👋
+# Olá, sou Josue 👋
 
 ## Sobre Mim
 Sou um desenvolvedor apaixonado por aprender e criar projetos inovadores. Tenho experiência com HTML, CSS, JavaScript, React e Python, e estou sempre buscando aprimorar minhas habilidades e contribuir para a comunidade.
@@ -17,5 +17,5 @@ Sou um desenvolvedor apaixonado por aprender e criar projetos inovadores. Tenho 
 Aqui você pode adicionar links para os projetos dos quais você mais se orgulha. Pode ser um link para o repositório ou para o projeto hospedado.
 
 ## Como entrar em contato comigo:
-- Email: seuemail@example.com
-- LinkedIn: [Seu Perfil](suaURLdoLinkedIn)
+- Email: josuebragasantos159@gmail.com
+- LinkedIn: 
