@@ -1,7 +1,5 @@
 # Olá, sou o Josue! 👋
 
-![Banner](https://user-images.githubusercontent.com/xxxxx/banner.png)
-
 Sou um desenvolvedor apaixonado por aprender e criar projetos inovadores. Tenho experiência com **HTML**, **CSS**, **JavaScript**, **React** e **Python**, e estou sempre buscando aprimorar minhas habilidades e contribuir para a comunidade.
 
 ---
@@ -22,15 +20,6 @@ Sou um desenvolvedor apaixonado por aprender e criar projetos inovadores. Tenho 
   <img src="https://github-readme-stats.vercel.app/api?username=Joso026&show_icons=true&theme=radical" alt="Josue's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joso026&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
----
-
-## 🌟 Meus Projetos
-Aqui estão alguns projetos dos quais eu mais me orgulho:
-
-- [Projeto 1](https://github.com/Joso026/projeto1)
-- [Projeto 2](https://github.com/Joso026/projeto2)
-- [Projeto 3](https://github.com/Joso026/projeto3)
 
 ---
 
